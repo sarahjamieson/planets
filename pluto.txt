@@ -1,2 +1,7 @@
 Very small planet
+<<<<<<< HEAD
 Wish it was still a real planet
+=======
+Is really far away
+
+>>>>>>> 4f4acc62adce660f7f5d68b4379c32d1aa2d7c2e
